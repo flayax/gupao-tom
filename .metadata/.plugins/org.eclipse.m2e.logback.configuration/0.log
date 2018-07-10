@@ -1,0 +1,969 @@
+2018-07-04 15:11:17,724 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zeroturnaround/javarebel-maven-plugin/1.0.5/javarebel-maven-plugin-1.0.5.jar
+2018-07-04 15:11:18,251 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zeroturnaround/javarebel-maven-plugin/1.0.5/javarebel-maven-plugin-1.0.5.jar
+2018-07-04 15:11:37,582 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.crawler:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-crawler\pom.xml.
+2018-07-04 15:11:37,792 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.6.RELEASE/spring-core-3.2.6.RELEASE.pom
+2018-07-04 15:11:38,291 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.6.RELEASE/spring-core-3.2.6.RELEASE.pom
+2018-07-04 15:11:39,244 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE.pom
+2018-07-04 15:11:39,642 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE.pom
+2018-07-04 15:11:39,859 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE.pom
+2018-07-04 15:11:40,274 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE.pom
+2018-07-04 15:11:40,598 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.6.RELEASE/spring-aop-3.2.6.RELEASE.pom
+2018-07-04 15:11:41,083 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.6.RELEASE/spring-aop-3.2.6.RELEASE.pom
+2018-07-04 15:11:42,739 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.6.RELEASE/spring-expression-3.2.6.RELEASE.pom
+2018-07-04 15:11:43,584 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.6.RELEASE/spring-expression-3.2.6.RELEASE.pom
+2018-07-04 15:11:44,082 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.6.RELEASE/spring-web-3.2.6.RELEASE.pom
+2018-07-04 15:11:44,480 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.6.RELEASE/spring-web-3.2.6.RELEASE.pom
+2018-07-04 15:11:44,737 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.2.6.RELEASE/spring-webmvc-3.2.6.RELEASE.pom
+2018-07-04 15:11:45,201 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.2.6.RELEASE/spring-webmvc-3.2.6.RELEASE.pom
+2018-07-04 15:11:45,613 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-test/3.2.6.RELEASE/spring-test-3.2.6.RELEASE.pom
+2018-07-04 15:11:46,021 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-test/3.2.6.RELEASE/spring-test-3.2.6.RELEASE.pom
+2018-07-04 15:11:46,409 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.7.2/aspectjweaver-1.7.2.pom
+2018-07-04 15:11:46,812 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.7.2/aspectjweaver-1.7.2.pom
+2018-07-04 15:11:47,005 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cglib/cglib-nodep/3.1/cglib-nodep-3.1.pom
+2018-07-04 15:11:47,446 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cglib/cglib-nodep/3.1/cglib-nodep-3.1.pom
+2018-07-04 15:11:48,152 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.pom
+2018-07-04 15:11:48,665 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.pom
+2018-07-04 15:11:48,884 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.9.2/jsoup-1.9.2.pom
+2018-07-04 15:11:50,546 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.9.2/jsoup-1.9.2.pom
+2018-07-04 15:11:50,735 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
+2018-07-04 15:11:51,111 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
+2018-07-04 15:11:51,897 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
+2018-07-04 15:11:52,266 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
+2018-07-04 15:11:52,563 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/alibaba/fastjson/1.2.4/fastjson-1.2.4.pom
+2018-07-04 15:11:52,942 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/alibaba/fastjson/1.2.4/fastjson-1.2.4.pom
+2018-07-04 15:11:53,144 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.pom
+2018-07-04 15:11:53,640 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.pom
+2018-07-04 15:11:54,363 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.6.RELEASE/spring-core-3.2.6.RELEASE.jar
+2018-07-04 15:11:55,839 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.6.RELEASE/spring-core-3.2.6.RELEASE.jar
+2018-07-04 15:11:56,030 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE.jar
+2018-07-04 15:11:56,785 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE.jar
+2018-07-04 15:11:56,969 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE.jar
+2018-07-04 15:11:57,925 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE.jar
+2018-07-04 15:11:58,108 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.6.RELEASE/spring-aop-3.2.6.RELEASE.jar
+2018-07-04 15:11:59,039 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.6.RELEASE/spring-aop-3.2.6.RELEASE.jar
+2018-07-04 15:11:59,236 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.6.RELEASE/spring-expression-3.2.6.RELEASE.jar
+2018-07-04 15:11:59,931 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.6.RELEASE/spring-expression-3.2.6.RELEASE.jar
+2018-07-04 15:12:00,131 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.6.RELEASE/spring-web-3.2.6.RELEASE.jar
+2018-07-04 15:12:00,909 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.6.RELEASE/spring-web-3.2.6.RELEASE.jar
+2018-07-04 15:12:01,097 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.2.6.RELEASE/spring-webmvc-3.2.6.RELEASE.jar
+2018-07-04 15:12:01,882 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.2.6.RELEASE/spring-webmvc-3.2.6.RELEASE.jar
+2018-07-04 15:12:02,075 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-test/3.2.6.RELEASE/spring-test-3.2.6.RELEASE.jar
+2018-07-04 15:12:02,823 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-test/3.2.6.RELEASE/spring-test-3.2.6.RELEASE.jar
+2018-07-04 15:12:03,458 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.7.2/aspectjweaver-1.7.2.jar
+2018-07-04 15:12:05,431 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.7.2/aspectjweaver-1.7.2.jar
+2018-07-04 15:12:05,613 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cglib/cglib-nodep/3.1/cglib-nodep-3.1.jar
+2018-07-04 15:12:06,215 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cglib/cglib-nodep/3.1/cglib-nodep-3.1.jar
+2018-07-04 15:12:06,396 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar
+2018-07-04 15:12:06,816 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar
+2018-07-04 15:12:06,997 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.9.2/jsoup-1.9.2.jar
+2018-07-04 15:12:07,588 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.9.2/jsoup-1.9.2.jar
+2018-07-04 15:12:07,768 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
+2018-07-04 15:12:08,333 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
+2018-07-04 15:12:08,513 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
+2018-07-04 15:12:08,888 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
+2018-07-04 15:12:09,069 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/alibaba/fastjson/1.2.4/fastjson-1.2.4.jar
+2018-07-04 15:12:10,092 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/alibaba/fastjson/1.2.4/fastjson-1.2.4.jar
+2018-07-04 15:12:10,273 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2018-07-04 15:12:11,207 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2018-07-04 15:12:23,291 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zeroturnaround/javarebel-maven-plugin/1.0.5/javarebel-maven-plugin-1.0.5.pom
+2018-07-04 15:12:23,658 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zeroturnaround/javarebel-maven-plugin/1.0.5/javarebel-maven-plugin-1.0.5.pom
+2018-07-04 15:12:30,430 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.pom
+2018-07-04 15:12:30,805 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.pom
+2018-07-04 15:12:31,048 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2018-07-04 15:12:33,128 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2018-07-04 15:12:34,221 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.jar
+2018-07-04 15:12:34,629 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.jar
+2018-07-04 15:12:38,560 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:12:38,599 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:12:38,629 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:12:38,631 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-04 15:12:38,645 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:12:38,646 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:12:38,647 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:12:38,650 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gupaoedu-crawler
+2018-07-04 15:12:38,656 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding GBK, i.e. build is platform dependent!
+2018-07-04 15:12:38,657 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:12:38,658 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to WEB-INF/classes
+2018-07-04 15:12:38,679 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to WEB-INF/classes
+2018-07-04 15:12:41,592 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:12:41,595 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:12:41,598 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:12:41,600 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-04 15:12:41,625 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:12:41,628 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:12:41,630 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:12:41,853 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.essearch:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-es-search-nearby\pom.xml.
+2018-07-04 15:12:42,081 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.2.6.RELEASE/spring-context-support-3.2.6.RELEASE.pom
+2018-07-04 15:12:42,485 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.2.6.RELEASE/spring-context-support-3.2.6.RELEASE.pom
+2018-07-04 15:12:42,686 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/elasticsearch/elasticsearch/2.3.4/elasticsearch-2.3.4.pom
+2018-07-04 15:12:43,097 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/elasticsearch/elasticsearch/2.3.4/elasticsearch-2.3.4.pom
+2018-07-04 15:12:43,290 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/elasticsearch/parent/2.3.4/parent-2.3.4.pom
+2018-07-04 15:12:43,711 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/elasticsearch/parent/2.3.4/parent-2.3.4.pom
+2018-07-04 15:12:44,323 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.0/lucene-core-5.5.0.pom
+2018-07-04 15:12:44,761 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.0/lucene-core-5.5.0.pom
+2018-07-04 15:12:44,965 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-parent/5.5.0/lucene-parent-5.5.0.pom
+2018-07-04 15:12:45,332 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-parent/5.5.0/lucene-parent-5.5.0.pom
+2018-07-04 15:12:45,529 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/5.5.0/lucene-solr-grandparent-5.5.0.pom
+2018-07-04 15:12:46,270 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/5.5.0/lucene-solr-grandparent-5.5.0.pom
+2018-07-04 15:12:46,944 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-backward-codecs/5.5.0/lucene-backward-codecs-5.5.0.pom
+2018-07-04 15:12:47,676 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-backward-codecs/5.5.0/lucene-backward-codecs-5.5.0.pom
+2018-07-04 15:12:47,894 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.0/lucene-analyzers-common-5.5.0.pom
+2018-07-04 15:12:48,339 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.0/lucene-analyzers-common-5.5.0.pom
+2018-07-04 15:12:48,541 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.0/lucene-queries-5.5.0.pom
+2018-07-04 15:12:48,992 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.0/lucene-queries-5.5.0.pom
+2018-07-04 15:12:49,216 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-memory/5.5.0/lucene-memory-5.5.0.pom
+2018-07-04 15:12:49,623 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-memory/5.5.0/lucene-memory-5.5.0.pom
+2018-07-04 15:12:50,015 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-highlighter/5.5.0/lucene-highlighter-5.5.0.pom
+2018-07-04 15:12:50,961 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-highlighter/5.5.0/lucene-highlighter-5.5.0.pom
+2018-07-04 15:12:51,175 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-join/5.5.0/lucene-join-5.5.0.pom
+2018-07-04 15:12:51,561 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-join/5.5.0/lucene-join-5.5.0.pom
+2018-07-04 15:12:51,765 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.0/lucene-queryparser-5.5.0.pom
+2018-07-04 15:12:52,154 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.0/lucene-queryparser-5.5.0.pom
+2018-07-04 15:12:52,541 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.0/lucene-sandbox-5.5.0.pom
+2018-07-04 15:12:53,796 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.0/lucene-sandbox-5.5.0.pom
+2018-07-04 15:12:54,523 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-suggest/5.5.0/lucene-suggest-5.5.0.pom
+2018-07-04 15:12:54,908 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-suggest/5.5.0/lucene-suggest-5.5.0.pom
+2018-07-04 15:12:55,120 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-misc/5.5.0/lucene-misc-5.5.0.pom
+2018-07-04 15:12:55,506 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-misc/5.5.0/lucene-misc-5.5.0.pom
+2018-07-04 15:12:55,721 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-grouping/5.5.0/lucene-grouping-5.5.0.pom
+2018-07-04 15:12:56,220 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-grouping/5.5.0/lucene-grouping-5.5.0.pom
+2018-07-04 15:12:56,432 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-spatial/5.5.0/lucene-spatial-5.5.0.pom
+2018-07-04 15:12:56,825 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-spatial/5.5.0/lucene-spatial-5.5.0.pom
+2018-07-04 15:12:57,056 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-spatial3d/5.5.0/lucene-spatial3d-5.5.0.pom
+2018-07-04 15:12:57,645 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-spatial3d/5.5.0/lucene-spatial3d-5.5.0.pom
+2018-07-04 15:12:57,874 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/spatial4j/spatial4j/0.5/spatial4j-0.5.pom
+2018-07-04 15:12:58,344 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/spatial4j/spatial4j/0.5/spatial4j-0.5.pom
+2018-07-04 15:12:59,267 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/elasticsearch/securesm/1.0/securesm-1.0.pom
+2018-07-04 15:12:59,713 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/elasticsearch/securesm/1.0/securesm-1.0.pom
+2018-07-04 15:13:00,003 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/carrotsearch/hppc/0.7.1/hppc-0.7.1.pom
+2018-07-04 15:13:01,186 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/carrotsearch/hppc/0.7.1/hppc-0.7.1.pom
+2018-07-04 15:13:01,813 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/carrotsearch/hppc-parent/0.7.1/hppc-parent-0.7.1.pom
+2018-07-04 15:13:02,228 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/carrotsearch/hppc-parent/0.7.1/hppc-parent-0.7.1.pom
+2018-07-04 15:13:02,535 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.4/joda-time-2.9.4.pom
+2018-07-04 15:13:03,035 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.4/joda-time-2.9.4.pom
+2018-07-04 15:13:03,303 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.pom
+2018-07-04 15:13:03,892 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.pom
+2018-07-04 15:13:04,415 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.6/jackson-core-2.6.6.pom
+2018-07-04 15:13:04,917 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.6/jackson-core-2.6.6.pom
+2018-07-04 15:13:05,407 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2018-07-04 15:13:05,820 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2018-07-04 15:13:07,222 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-smile/2.6.6/jackson-dataformat-smile-2.6.6.pom
+2018-07-04 15:13:08,712 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-smile/2.6.6/jackson-dataformat-smile-2.6.6.pom
+2018-07-04 15:13:09,261 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.6.6/jackson-dataformat-yaml-2.6.6.pom
+2018-07-04 15:13:09,852 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.6.6/jackson-dataformat-yaml-2.6.6.pom
+2018-07-04 15:13:10,288 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.15/snakeyaml-1.15.pom
+2018-07-04 15:13:10,689 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.15/snakeyaml-1.15.pom
+2018-07-04 15:13:10,895 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.6.6/jackson-dataformat-cbor-2.6.6.pom
+2018-07-04 15:13:11,336 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.6.6/jackson-dataformat-cbor-2.6.6.pom
+2018-07-04 15:13:11,594 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.pom
+2018-07-04 15:13:12,224 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.pom
+2018-07-04 15:13:12,445 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/ning/compress-lzf/1.0.2/compress-lzf-1.0.2.pom
+2018-07-04 15:13:12,846 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/ning/compress-lzf/1.0.2/compress-lzf-1.0.2.pom
+2018-07-04 15:13:13,259 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/tdunning/t-digest/3.0/t-digest-3.0.pom
+2018-07-04 15:13:13,818 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/tdunning/t-digest/3.0/t-digest-3.0.pom
+2018-07-04 15:13:14,018 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.6/HdrHistogram-2.1.6.pom
+2018-07-04 15:13:14,501 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.6/HdrHistogram-2.1.6.pom
+2018-07-04 15:13:16,512 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.pom
+2018-07-04 15:13:16,973 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.pom
+2018-07-04 15:13:17,202 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.pom
+2018-07-04 15:13:17,667 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.pom
+2018-07-04 15:13:17,954 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/netty/netty/3.10.5.Final/netty-3.10.5.Final.pom
+2018-07-04 15:13:17,958 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-04 15:13:18,335 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.2/jackson-core-2.6.2.pom
+2018-07-04 15:13:18,799 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.2/jackson-core-2.6.2.pom
+2018-07-04 15:13:19,008 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2018-07-04 15:13:19,426 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2018-07-04 15:13:19,627 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2018-07-04 15:13:20,229 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2018-07-04 15:13:20,420 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-smile/2.6.2/jackson-dataformat-smile-2.6.2.pom
+2018-07-04 15:13:21,127 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-smile/2.6.2/jackson-dataformat-smile-2.6.2.pom
+2018-07-04 15:13:24,489 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.2.6.RELEASE/spring-context-support-3.2.6.RELEASE.jar
+2018-07-04 15:13:25,273 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.2.6.RELEASE/spring-context-support-3.2.6.RELEASE.jar
+2018-07-04 15:13:25,452 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/elasticsearch/elasticsearch/2.3.4/elasticsearch-2.3.4.jar
+2018-07-04 15:13:33,912 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/elasticsearch/elasticsearch/2.3.4/elasticsearch-2.3.4.jar
+2018-07-04 15:13:34,093 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-backward-codecs/5.5.0/lucene-backward-codecs-5.5.0.jar
+2018-07-04 15:13:34,782 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-backward-codecs/5.5.0/lucene-backward-codecs-5.5.0.jar
+2018-07-04 15:13:34,967 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.0/lucene-analyzers-common-5.5.0.jar
+2018-07-04 15:13:37,093 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.0/lucene-analyzers-common-5.5.0.jar
+2018-07-04 15:13:37,275 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.0/lucene-queries-5.5.0.jar
+2018-07-04 15:13:37,852 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.0/lucene-queries-5.5.0.jar
+2018-07-04 15:13:38,034 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-memory/5.5.0/lucene-memory-5.5.0.jar
+2018-07-04 15:13:38,417 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-memory/5.5.0/lucene-memory-5.5.0.jar
+2018-07-04 15:13:38,600 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-highlighter/5.5.0/lucene-highlighter-5.5.0.jar
+2018-07-04 15:13:39,084 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-highlighter/5.5.0/lucene-highlighter-5.5.0.jar
+2018-07-04 15:13:39,269 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.0/lucene-queryparser-5.5.0.jar
+2018-07-04 15:13:40,205 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.0/lucene-queryparser-5.5.0.jar
+2018-07-04 15:13:40,387 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.0/lucene-sandbox-5.5.0.jar
+2018-07-04 15:13:41,711 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.0/lucene-sandbox-5.5.0.jar
+2018-07-04 15:13:41,903 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-suggest/5.5.0/lucene-suggest-5.5.0.jar
+2018-07-04 15:13:42,481 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-suggest/5.5.0/lucene-suggest-5.5.0.jar
+2018-07-04 15:13:42,665 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-misc/5.5.0/lucene-misc-5.5.0.jar
+2018-07-04 15:13:43,157 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-misc/5.5.0/lucene-misc-5.5.0.jar
+2018-07-04 15:13:43,337 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-join/5.5.0/lucene-join-5.5.0.jar
+2018-07-04 15:13:43,836 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-join/5.5.0/lucene-join-5.5.0.jar
+2018-07-04 15:13:44,018 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-grouping/5.5.0/lucene-grouping-5.5.0.jar
+2018-07-04 15:13:44,486 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-grouping/5.5.0/lucene-grouping-5.5.0.jar
+2018-07-04 15:13:44,667 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-spatial/5.5.0/lucene-spatial-5.5.0.jar
+2018-07-04 15:13:45,583 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-spatial/5.5.0/lucene-spatial-5.5.0.jar
+2018-07-04 15:13:45,764 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-spatial3d/5.5.0/lucene-spatial3d-5.5.0.jar
+2018-07-04 15:13:46,280 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-spatial3d/5.5.0/lucene-spatial3d-5.5.0.jar
+2018-07-04 15:13:46,462 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/spatial4j/spatial4j/0.5/spatial4j-0.5.jar
+2018-07-04 15:13:47,103 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/spatial4j/spatial4j/0.5/spatial4j-0.5.jar
+2018-07-04 15:13:47,285 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/elasticsearch/securesm/1.0/securesm-1.0.jar
+2018-07-04 15:13:47,811 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/elasticsearch/securesm/1.0/securesm-1.0.jar
+2018-07-04 15:13:47,991 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar
+2018-07-04 15:13:48,389 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar
+2018-07-04 15:13:48,576 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.6.6/jackson-dataformat-yaml-2.6.6.jar
+2018-07-04 15:13:49,391 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.6.6/jackson-dataformat-yaml-2.6.6.jar
+2018-07-04 15:13:49,575 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.15/snakeyaml-1.15.jar
+2018-07-04 15:13:50,263 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.15/snakeyaml-1.15.jar
+2018-07-04 15:13:50,448 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.6.6/jackson-dataformat-cbor-2.6.6.jar
+2018-07-04 15:13:50,881 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.6.6/jackson-dataformat-cbor-2.6.6.jar
+2018-07-04 15:13:51,073 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar
+2018-07-04 15:13:52,886 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar
+2018-07-04 15:13:53,069 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.6/HdrHistogram-2.1.6.jar
+2018-07-04 15:13:53,908 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.6/HdrHistogram-2.1.6.jar
+2018-07-04 15:13:54,094 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.0/lucene-core-5.5.0.jar
+2018-07-04 15:13:58,399 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.0/lucene-core-5.5.0.jar
+2018-07-04 15:13:58,581 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.jar
+2018-07-04 15:13:59,864 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.jar
+2018-07-04 15:14:00,045 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.jar
+2018-07-04 15:14:00,489 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.jar
+2018-07-04 15:14:00,671 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/tdunning/t-digest/3.0/t-digest-3.0.jar
+2018-07-04 15:14:01,539 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/tdunning/t-digest/3.0/t-digest-3.0.jar
+2018-07-04 15:14:01,719 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar
+2018-07-04 15:14:02,089 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/carrotsearch/hppc/0.7.1/hppc-0.7.1.jar
+2018-07-04 15:14:06,090 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/carrotsearch/hppc/0.7.1/hppc-0.7.1.jar
+2018-07-04 15:14:06,277 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.2/jackson-core-2.6.2.jar
+2018-07-04 15:14:08,161 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.2/jackson-core-2.6.2.jar
+2018-07-04 15:14:08,343 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/ning/compress-lzf/1.0.2/compress-lzf-1.0.2.jar
+2018-07-04 15:14:09,642 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/ning/compress-lzf/1.0.2/compress-lzf-1.0.2.jar
+2018-07-04 15:14:09,824 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-smile/2.6.2/jackson-dataformat-smile-2.6.2.jar
+2018-07-04 15:14:11,425 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-smile/2.6.2/jackson-dataformat-smile-2.6.2.jar
+2018-07-04 15:14:34,802 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-04 15:14:36,945 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:14:36,945 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:14:36,947 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:14:36,948 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-07-04 15:14:36,956 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:36,957 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:14:36,958 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:36,958 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gupaoedu-es-search-nearby
+2018-07-04 15:14:36,961 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding GBK, i.e. build is platform dependent!
+2018-07-04 15:14:36,962 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:14:36,962 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources to WEB-INF/classes
+2018-07-04 15:14:36,970 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to WEB-INF/classes
+2018-07-04 15:14:39,167 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:14:39,168 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:39,169 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:14:39,170 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:39,170 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:39,171 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:14:39,172 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:39,550 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-04 15:14:41,524 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:14:41,525 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:41,534 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:14:41,536 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:41,537 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:41,538 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:14:41,540 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:14:42,320 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.jdbc:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-jdbc-orm\pom.xml.
+2018-07-04 15:14:42,848 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.2.6.RELEASE/spring-jdbc-3.2.6.RELEASE.pom
+2018-07-04 15:14:43,262 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.2.6.RELEASE/spring-jdbc-3.2.6.RELEASE.pom
+2018-07-04 15:14:44,510 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.2.6.RELEASE/spring-tx-3.2.6.RELEASE.pom
+2018-07-04 15:14:44,942 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.2.6.RELEASE/spring-tx-3.2.6.RELEASE.pom
+2018-07-04 15:14:45,583 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2018-07-04 15:14:46,360 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2018-07-04 15:14:46,584 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2018-07-04 15:14:48,385 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2018-07-04 15:14:50,554 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2018-07-04 15:14:51,123 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2018-07-04 15:14:52,180 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/persistence/persistence-api/1.0/persistence-api-1.0.pom
+2018-07-04 15:14:52,581 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/persistence/persistence-api/1.0/persistence-api-1.0.pom
+2018-07-04 15:14:52,798 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.9/druid-1.0.9.pom
+2018-07-04 15:14:53,480 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.9/druid-1.0.9.pom
+2018-07-04 15:14:55,850 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.2.6.RELEASE/spring-jdbc-3.2.6.RELEASE.jar
+2018-07-04 15:15:00,266 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.2.6.RELEASE/spring-jdbc-3.2.6.RELEASE.jar
+2018-07-04 15:15:00,456 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.2.6.RELEASE/spring-tx-3.2.6.RELEASE.jar
+2018-07-04 15:15:02,545 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.2.6.RELEASE/spring-tx-3.2.6.RELEASE.jar
+2018-07-04 15:15:02,726 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar
+2018-07-04 15:15:03,938 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar
+2018-07-04 15:15:04,126 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+2018-07-04 15:15:05,583 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+2018-07-04 15:15:05,766 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar
+2018-07-04 15:15:06,250 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar
+2018-07-04 15:15:06,436 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.9/druid-1.0.9.jar
+2018-07-04 15:15:10,363 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/alibaba/druid/1.0.9/druid-1.0.9.jar
+2018-07-04 15:15:14,753 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.6.8/ehcache-core-2.6.8.pom
+2018-07-04 15:15:15,156 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.6.8/ehcache-core-2.6.8.pom
+2018-07-04 15:15:15,351 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.5/ehcache-parent-2.5.pom
+2018-07-04 15:15:15,736 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.5/ehcache-parent-2.5.pom
+2018-07-04 15:15:15,947 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.6.8/ehcache-core-2.6.8.jar
+2018-07-04 15:15:18,651 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.6.8/ehcache-core-2.6.8.jar
+2018-07-04 15:15:22,328 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8: Failed to parse plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8 (C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.6.8\ehcache-core-2.6.8.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-07-04 15:15:22,525 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/core/common/doc/maven-doc-plugin/1.0.4/maven-doc-plugin-1.0.4.pom
+2018-07-04 15:15:22,527 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.core.common.doc:maven-doc-plugin:jar:1.0.4 is missing, no dependency information available
+2018-07-04 15:15:22,931 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/core/common/doc/maven-doc-plugin/1.0.4/maven-doc-plugin-1.0.4.jar
+2018-07-04 15:15:22,935 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for javax.core.common.doc:maven-doc-plugin:1.0.4: Plugin javax.core.common.doc:maven-doc-plugin:1.0.4 or one of its dependencies could not be resolved: Could not find artifact javax.core.common.doc:maven-doc-plugin:jar:1.0.4 in central (http://repo.maven.apache.org/maven2)
+2018-07-04 15:15:23,009 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8: Failed to parse plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8 (C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.6.8\ehcache-core-2.6.8.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-07-04 15:15:23,015 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.core.common.doc:maven-doc-plugin:jar:1.0.4 is missing, no dependency information available
+2018-07-04 15:15:23,021 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for javax.core.common.doc:maven-doc-plugin:1.0.4: Plugin javax.core.common.doc:maven-doc-plugin:1.0.4 or one of its dependencies could not be resolved: Failure to find javax.core.common.doc:maven-doc-plugin:jar:1.0.4 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-07-04 15:15:23,671 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:23,671 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-04 15:15:23,673 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:23,677 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-07-04 15:15:23,695 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:23,696 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:23,696 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:25,128 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:25,128 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-04 15:15:25,130 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:25,131 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-07-04 15:15:25,155 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:25,157 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:25,158 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:27,346 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.mvcframework:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-mvcframework\pom.xml.
+2018-07-04 15:15:29,721 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:29,721 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:29,723 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:29,724 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-04 15:15:29,730 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:29,731 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:29,732 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:29,732 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gupaoedu-mvcframework
+2018-07-04 15:15:29,737 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding GBK, i.e. build is platform dependent!
+2018-07-04 15:15:29,738 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:29,740 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources to WEB-INF/classes
+2018-07-04 15:15:29,744 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to WEB-INF/classes
+2018-07-04 15:15:30,369 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.schedule:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-quartz-schedule\pom.xml.
+2018-07-04 15:15:30,815 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.2/aspectjweaver-1.6.2.pom
+2018-07-04 15:15:31,248 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.2/aspectjweaver-1.6.2.pom
+2018-07-04 15:15:31,486 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz/1.8.6/quartz-1.8.6.pom
+2018-07-04 15:15:31,888 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz/1.8.6/quartz-1.8.6.pom
+2018-07-04 15:15:32,092 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz-parent/1.8.6/quartz-parent-1.8.6.pom
+2018-07-04 15:15:32,701 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz-parent/1.8.6/quartz-parent-1.8.6.pom
+2018-07-04 15:15:34,619 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.2/aspectjweaver-1.6.2.jar
+2018-07-04 15:15:37,200 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.2/aspectjweaver-1.6.2.jar
+2018-07-04 15:15:37,400 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz/1.8.6/quartz-1.8.6.jar
+2018-07-04 15:15:38,090 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz/1.8.6/quartz-1.8.6.jar
+2018-07-04 15:15:41,662 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.crawler:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-crawler\pom.xml.
+2018-07-04 15:15:41,751 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.essearch:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-es-search-nearby\pom.xml.
+2018-07-04 15:15:41,946 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-04 15:15:43,190 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.jdbc:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-jdbc-orm\pom.xml.
+2018-07-04 15:15:43,637 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-04 15:15:43,816 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8: Failed to parse plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8 (C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.6.8\ehcache-core-2.6.8.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-07-04 15:15:43,820 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.core.common.doc:maven-doc-plugin:jar:1.0.4 is missing, no dependency information available
+2018-07-04 15:15:43,824 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for javax.core.common.doc:maven-doc-plugin:1.0.4: Plugin javax.core.common.doc:maven-doc-plugin:1.0.4 or one of its dependencies could not be resolved: Failure to find javax.core.common.doc:maven-doc-plugin:jar:1.0.4 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-07-04 15:15:43,834 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8: Failed to parse plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8 (C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.6.8\ehcache-core-2.6.8.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-07-04 15:15:43,838 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.core.common.doc:maven-doc-plugin:jar:1.0.4 is missing, no dependency information available
+2018-07-04 15:15:43,842 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for javax.core.common.doc:maven-doc-plugin:1.0.4: Plugin javax.core.common.doc:maven-doc-plugin:1.0.4 or one of its dependencies could not be resolved: Failure to find javax.core.common.doc:maven-doc-plugin:jar:1.0.4 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-07-04 15:15:46,007 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:46,008 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:15:46,009 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:46,010 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-07-04 15:15:46,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:46,020 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:46,021 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:46,564 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:46,564 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:46,565 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:46,566 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:46,566 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:46,566 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:46,567 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:46,882 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-04 15:15:47,016 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:47,016 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,017 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:47,018 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,018 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,019 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:47,020 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,237 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:47,238 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,238 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:47,240 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,240 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,241 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:47,242 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,402 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:47,403 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,404 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:47,406 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-04 15:15:47,411 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,413 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:47,414 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,677 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:47,677 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:15:47,680 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:47,681 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-07-04 15:15:47,704 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:47,708 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:47,709 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:50,988 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu:gupaoedu-upload:1.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-upload\pom.xml.
+2018-07-04 15:15:51,496 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.3/commons-fileupload-1.3.pom
+2018-07-04 15:15:51,922 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.3/commons-fileupload-1.3.pom
+2018-07-04 15:15:52,166 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2018-07-04 15:15:52,621 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2018-07-04 15:15:53,814 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.3/commons-fileupload-1.3.jar
+2018-07-04 15:15:54,250 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.3/commons-fileupload-1.3.jar
+2018-07-04 15:15:59,480 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:15:59,481 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:15:59,482 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:59,483 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-07-04 15:15:59,494 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:59,495 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:59,495 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:15:59,496 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gupaoedu-upload
+2018-07-04 15:15:59,498 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding GBK, i.e. build is platform dependent!
+2018-07-04 15:15:59,498 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:15:59,499 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources to WEB-INF/classes
+2018-07-04 15:15:59,507 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to WEB-INF/classes
+2018-07-04 15:16:00,695 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:00,695 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:16:00,698 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:00,699 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-07-04 15:16:00,718 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:00,720 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:00,721 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:00,953 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-source-plugin/maven-metadata.xml
+2018-07-04 15:16:02,130 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-source-plugin/maven-metadata.xml
+2018-07-04 15:16:02,346 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-source-plugin/3.0.1/maven-source-plugin-3.0.1.pom
+2018-07-04 15:16:03,179 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-source-plugin/3.0.1/maven-source-plugin-3.0.1.pom
+2018-07-04 15:16:05,078 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-source-plugin/3.0.1/maven-source-plugin-3.0.1.jar
+2018-07-04 15:16:05,562 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-source-plugin/3.0.1/maven-source-plugin-3.0.1.jar
+2018-07-04 15:16:08,912 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-2/maven-assembly-plugin-2.2-beta-2.jar
+2018-07-04 15:16:09,452 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-2/maven-assembly-plugin-2.2-beta-2.jar
+2018-07-04 15:16:11,163 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu:gupaoedu-vip-io:1.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-io\pom.xml.
+2018-07-04 15:16:12,087 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:12,087 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-io\src\main\resources\${package.environment}
+2018-07-04 15:16:12,088 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:12,093 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:12,096 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:12,097 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:14,142 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu:gupaoedu-vip-netty:1.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-catalina\pom.xml.
+2018-07-04 15:16:14,350 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/io/netty/netty-all/4.1.6.Final/netty-all-4.1.6.Final.pom
+2018-07-04 15:16:14,856 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/netty/netty-all/4.1.6.Final/netty-all-4.1.6.Final.pom
+2018-07-04 15:16:15,325 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.6.Final/netty-parent-4.1.6.Final.pom
+2018-07-04 15:16:16,150 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.6.Final/netty-parent-4.1.6.Final.pom
+2018-07-04 15:16:16,378 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/msgpack/msgpack/0.6.12/msgpack-0.6.12.pom
+2018-07-04 15:16:16,886 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/msgpack/msgpack/0.6.12/msgpack-0.6.12.pom
+2018-07-04 15:16:17,472 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-07-04 15:16:18,013 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-07-04 15:16:19,080 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/io/netty/netty-all/4.1.6.Final/netty-all-4.1.6.Final.jar
+2018-07-04 15:16:23,749 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/netty/netty-all/4.1.6.Final/netty-all-4.1.6.Final.jar
+2018-07-04 15:16:23,954 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/msgpack/msgpack/0.6.12/msgpack-0.6.12.jar
+2018-07-04 15:16:25,107 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/msgpack/msgpack/0.6.12/msgpack-0.6.12.jar
+2018-07-04 15:16:25,305 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2018-07-04 15:16:26,100 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2018-07-04 15:16:26,298 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2018-07-04 15:16:28,660 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2018-07-04 15:16:32,722 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:32,722 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-catalina\src\main\resources\${package.environment}
+2018-07-04 15:16:32,723 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:32,725 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-04 15:16:35,255 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:35,256 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:39,609 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:39,609 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-catalina\src\main\resources\${package.environment}
+2018-07-04 15:16:39,609 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:39,612 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-04 15:16:40,633 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:40,634 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:41,080 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu:gupaoedu-vip-netty:1.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-chat\pom.xml.
+2018-07-04 15:16:41,200 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:41,200 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-chat\src\main\resources\${package.environment}
+2018-07-04 15:16:41,201 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:41,203 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-04 15:16:44,133 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:44,134 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:47,611 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:47,612 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-chat\src\main\resources\${package.environment}
+2018-07-04 15:16:47,614 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:47,620 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-04 15:16:48,263 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:48,264 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:49,434 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.vip.springaop:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-springaop\pom.xml.
+2018-07-04 15:16:53,279 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:53,279 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:16:53,281 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:53,291 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-04 15:16:53,308 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:53,309 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:53,310 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:53,311 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gupaoedu-vip-springaop
+2018-07-04 15:16:53,313 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding GBK, i.e. build is platform dependent!
+2018-07-04 15:16:53,314 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:53,315 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to WEB-INF/classes
+2018-07-04 15:16:53,321 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to WEB-INF/classes
+2018-07-04 15:16:54,627 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:54,628 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:16:54,629 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:54,630 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-04 15:16:54,640 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:54,641 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:54,642 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:54,776 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.vip.springjdbc:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-springjdbc\pom.xml.
+2018-07-04 15:16:55,818 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8: Failed to parse plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8 (C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.6.8\ehcache-core-2.6.8.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-07-04 15:16:55,821 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.core.common.doc:maven-doc-plugin:jar:1.0.4 is missing, no dependency information available
+2018-07-04 15:16:55,823 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for javax.core.common.doc:maven-doc-plugin:1.0.4: Plugin javax.core.common.doc:maven-doc-plugin:1.0.4 or one of its dependencies could not be resolved: Failure to find javax.core.common.doc:maven-doc-plugin:jar:1.0.4 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-07-04 15:16:55,829 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8: Failed to parse plugin descriptor for net.sf.ehcache:ehcache-core:2.6.8 (C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.6.8\ehcache-core-2.6.8.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-07-04 15:16:55,832 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.core.common.doc:maven-doc-plugin:jar:1.0.4 is missing, no dependency information available
+2018-07-04 15:16:55,834 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for javax.core.common.doc:maven-doc-plugin:1.0.4: Plugin javax.core.common.doc:maven-doc-plugin:1.0.4 or one of its dependencies could not be resolved: Failure to find javax.core.common.doc:maven-doc-plugin:jar:1.0.4 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-07-04 15:16:58,465 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:16:58,465 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:16:58,466 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:58,467 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2018-07-04 15:16:58,724 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:16:58,725 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:16:58,725 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:01,586 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:17:01,586 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:17:01,587 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:01,588 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2018-07-04 15:17:01,624 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:01,625 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:01,626 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:04,278 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.vip.springmvc:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-springmvc\pom.xml.
+2018-07-04 15:17:06,551 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:17:06,551 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:06,553 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:06,556 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-07-04 15:17:06,560 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:06,561 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:06,562 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:06,562 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gupaoedu-vip-springmvc
+2018-07-04 15:17:06,565 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding GBK, i.e. build is platform dependent!
+2018-07-04 15:17:06,566 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:06,567 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to WEB-INF/classes
+2018-07-04 15:17:06,569 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to WEB-INF/classes
+2018-07-04 15:17:11,044 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:17:11,045 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:11,047 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:11,050 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-07-04 15:17:11,056 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:11,057 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:11,057 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:11,175 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gupaoedu.schedule:ROOT:2.0.0 @ E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-transcation\pom.xml.
+2018-07-04 15:17:11,810 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:17:11,810 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-04 15:17:11,812 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:11,813 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-04 15:17:11,824 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:11,825 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:11,826 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:29,926 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:17:29,927 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-04 15:17:29,930 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:29,931 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-04 15:17:29,946 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:17:29,947 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:17:29,948 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,424 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:21:05,425 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:21:05,426 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,427 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-07-04 15:21:05,429 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,430 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,431 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,443 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:21:05,444 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-io\src\main\resources\${package.environment}
+2018-07-04 15:21:05,444 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,445 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,446 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,446 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,502 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:21:05,502 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-catalina\src\main\resources\${package.environment}
+2018-07-04 15:21:05,503 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,506 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-04 15:21:05,520 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,520 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,587 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:21:05,587 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-chat\src\main\resources\${package.environment}
+2018-07-04 15:21:05,587 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,590 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-04 15:21:05,606 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,607 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,754 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:21:05,755 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,756 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,757 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-07-04 15:21:05,760 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,761 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,762 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,921 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:21:05,922 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-04 15:21:05,924 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,926 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-04 15:21:05,929 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:21:05,930 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:21:05,932 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:35:06,528 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: <project root> [in gupaoedu-vip-proxy] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:544) ~[na:na]
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:557) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:294) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:280) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:486) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:600) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:52) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:77) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:86) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:135) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:357) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:298) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$17(WorkbenchPage.java:280) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:202) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:234) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:231) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:682) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:613) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:601) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3190) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$23(WorkbenchPage.java:3104) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$9.run(WorkbenchPage.java:3086) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3081) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3045) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3035) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:373) [org.eclipse.jdt.ui_3.10.0.v20140604-1403.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:179) [org.eclipse.jdt.ui_3.10.0.v20140604-1403.jar:na]
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:268) [org.eclipse.jdt.ui_3.10.0.v20140604-1403.jar:na]
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:233) [org.eclipse.jdt.ui_3.10.0.v20140604-1403.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:275) [org.eclipse.jdt.ui_3.10.0.v20140604-1403.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:251) [org.eclipse.jdt.ui_3.10.0.v20140604-1403.jar:na]
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerActionGroup.handleOpen(PackageExplorerActionGroup.java:376) [org.eclipse.jdt.ui_3.10.0.v20140604-1403.jar:na]
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart$4.open(PackageExplorerPart.java:538) [org.eclipse.jdt.ui_3.10.0.v20140604-1403.jar:na]
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:853) [org.eclipse.jface_3.10.0.v20140604-0740.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:50) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:178) [org.eclipse.jface_3.10.0.v20140604-0740.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:850) [org.eclipse.jface_3.10.0.v20140604-0740.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1142) [org.eclipse.jface_3.10.0.v20140604-0740.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer$6.handleOpen(StructuredViewer.java:1249) [org.eclipse.jface_3.10.0.v20140604-0740.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:278) [org.eclipse.jface_3.10.0.v20140604-0740.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:272) [org.eclipse.jface_3.10.0.v20140604-0740.jar:na]
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:313) [org.eclipse.jface_3.10.0.v20140604-0740.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[na:1.8.0_05]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2018-07-04 15:36:35,499 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:36:35,500 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:36:35,503 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:36:35,505 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-04 15:36:35,510 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:36:35,511 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:36:35,513 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:36:35,513 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of gupaoedu-crawler
+2018-07-04 15:36:35,514 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gupaoedu-crawler
+2018-07-04 15:36:35,526 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding GBK, i.e. build is platform dependent!
+2018-07-04 15:36:35,527 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:36:35,529 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to WEB-INF/classes
+2018-07-04 15:36:35,537 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to WEB-INF/classes
+2018-07-04 15:36:56,441 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-04 15:36:56,441 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-04 15:36:56,443 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:36:56,445 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-04 15:36:56,452 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:36:56,453 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:36:56,455 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 15:36:56,455 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of gupaoedu-crawler
+2018-07-04 15:36:56,455 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gupaoedu-crawler
+2018-07-04 15:36:56,459 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding GBK, i.e. build is platform dependent!
+2018-07-04 15:36:56,460 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 15:36:56,461 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to WEB-INF/classes
+2018-07-04 15:36:56,471 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to WEB-INF/classes
+2018-07-05 09:07:27,411 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:07:27,651 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-05 09:07:27,811 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:27,821 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-05 09:07:28,321 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:28,331 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:28,411 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:35,621 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-05 09:07:39,131 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:07:39,881 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-05 09:07:40,121 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:40,131 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-07-05 09:07:40,351 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:40,361 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:40,421 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:42,261 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:07:42,741 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-05 09:07:42,871 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:42,871 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-07-05 09:07:42,971 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:42,971 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:43,021 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:43,481 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:07:45,211 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:45,221 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:45,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-05 09:07:45,461 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:45,471 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:45,661 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:47,371 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:07:47,441 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-05 09:07:47,591 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:47,601 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-07-05 09:07:47,641 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:47,641 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:47,641 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:49,871 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:07:50,371 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-05 09:07:50,581 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:50,581 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-07-05 09:07:50,671 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:50,671 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:50,681 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:53,761 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:07:53,791 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-io\src\main\resources\${package.environment}
+2018-07-05 09:07:53,791 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:53,841 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:53,841 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:53,841 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:07:55,311 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:07:55,381 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-catalina\src\main\resources\${package.environment}
+2018-07-05 09:07:55,391 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:07:55,421 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-05 09:08:00,181 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:00,181 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:01,191 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:08:01,481 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-chat\src\main\resources\${package.environment}
+2018-07-05 09:08:01,481 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:01,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-05 09:08:03,201 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:03,201 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:03,671 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:08:03,801 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-05 09:08:03,921 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:03,921 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-05 09:08:03,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:03,981 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:03,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:04,321 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:08:04,411 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-05 09:08:04,521 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:04,521 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2018-07-05 09:08:04,571 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:04,571 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:04,571 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:04,881 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:08:05,041 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:05,041 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:05,041 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-07-05 09:08:05,231 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:05,231 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:05,261 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:05,671 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 09:08:05,751 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-05 09:08:05,931 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:05,931 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-05 09:08:06,051 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-05 09:08:06,051 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-05 09:08:06,051 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:11,858 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:11,918 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-06 09:20:11,968 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:11,968 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-06 09:20:11,978 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:11,978 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:11,978 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:14,408 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-06 09:20:14,618 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:14,678 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-06 09:20:14,708 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:14,708 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-07-06 09:20:14,778 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:14,778 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:14,778 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:15,638 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:15,728 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-06 09:20:15,748 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:15,748 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-07-06 09:20:15,828 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:15,828 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:15,828 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:16,228 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:16,268 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:16,278 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:16,278 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-06 09:20:16,288 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:16,288 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:16,298 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:17,086 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:17,186 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-06 09:20:17,306 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:17,346 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-07-06 09:20:17,536 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:17,546 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:17,566 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:19,508 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:19,538 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-06 09:20:19,548 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:19,548 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-07-06 09:20:19,558 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:19,558 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:19,598 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:20,488 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:20,518 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-io\src\main\resources\${package.environment}
+2018-07-06 09:20:20,518 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:20,518 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:20,528 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:20,528 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:21,028 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:21,028 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-catalina\src\main\resources\${package.environment}
+2018-07-06 09:20:21,028 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:21,038 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-06 09:20:22,178 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:22,178 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:22,818 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:22,858 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-chat\src\main\resources\${package.environment}
+2018-07-06 09:20:22,858 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:22,868 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-06 09:20:23,008 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:23,008 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:23,318 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:23,358 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-06 09:20:23,408 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:23,408 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-06 09:20:23,428 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:23,428 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:23,428 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:23,808 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:23,888 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-06 09:20:23,978 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:23,978 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2018-07-06 09:20:24,048 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:24,048 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:24,048 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:24,228 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:24,278 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:24,278 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:24,278 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-07-06 09:20:24,298 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:24,298 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:24,308 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:24,618 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 09:20:24,718 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-06 09:20:24,888 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:24,888 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-06 09:20:24,898 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-06 09:20:24,898 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-06 09:20:24,908 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:15,951 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:16,231 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-09 09:08:16,531 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:16,541 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-09 09:08:16,571 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:16,601 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:16,771 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:25,291 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.netty:netty:jar:3.10.5.Final is missing, no dependency information available
+2018-07-09 09:08:26,271 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:26,621 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-09 09:08:26,781 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:26,781 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-07-09 09:08:26,801 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:26,811 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:26,811 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:30,131 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:30,411 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-09 09:08:30,621 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:30,621 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-07-09 09:08:30,971 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:30,971 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:30,971 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:31,601 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:31,671 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:31,681 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:31,681 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-09 09:08:31,801 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:31,801 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:31,971 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:34,071 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:34,121 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-09 09:08:34,331 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:34,331 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-07-09 09:08:34,631 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:34,631 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:34,631 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:37,441 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:37,541 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-09 09:08:37,741 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:37,741 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-07-09 09:08:37,901 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:37,901 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:37,991 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:40,421 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:40,561 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-io\src\main\resources\${package.environment}
+2018-07-09 09:08:40,561 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:40,571 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:40,581 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:40,581 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:41,581 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:41,731 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-catalina\src\main\resources\${package.environment}
+2018-07-09 09:08:41,731 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:41,971 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-09 09:08:45,131 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:45,141 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:45,491 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:45,541 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ProgramFiles\eclipse\workspace\Test\Tom\gupaoedu-vip-netty-chat\src\main\resources\${package.environment}
+2018-07-09 09:08:45,541 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:45,611 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 141 resources
+2018-07-09 09:08:49,011 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:49,011 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:49,771 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:49,951 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-09 09:08:50,171 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:50,171 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-07-09 09:08:50,191 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:50,201 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:50,201 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:51,841 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:51,961 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-09 09:08:52,121 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:52,121 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2018-07-09 09:08:52,791 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:52,791 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:52,791 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:53,761 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:54,101 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:54,101 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:54,101 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-07-09 09:08:54,541 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:54,541 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:54,611 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:55,191 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-09 09:08:55,241 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-09 09:08:55,791 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:55,791 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-09 09:08:56,191 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-09 09:08:56,191 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-09 09:08:56,241 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
